@@ -1,0 +1,3 @@
+This is saple site that was built with HTML, CSS and JS This site has functionability as stated below email automation using the emailjs.com swiper using swiper.js icons using remixicon.com font-size using https://clamp.font-size.app/
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script> <script> var swiper = new Swiper(".mySwiper", { slidesPerView: 1, spaceBetween: 10, pagination: { el: ".swiper-pagination", clickable: true, }, breakpoints: { 640: { slidesPerView: 2, spaceBetween: 20, }, 768: { slidesPerView: 4, spaceBetween: 40, }, 1024: { slidesPerView: 5, spaceBetween: 50, }, }, }); </script>
+In all it is awesome project that showcase building a very reliable persona
